@@ -6,5 +6,5 @@
 #### See videos below how to import project and change settings:  
 #### Video explanations in English:[https://www.youtube.com/watch?v=8Lbmiy_5Bqg](https://www.youtube.com/watch?v=8Lbmiy_5Bqg)
 # Project Motivation and Main Theory
-#### Text explanations in English :                                                                                                             
+#### Text explanations in English :It's in the docs folder.The name is Omnidirectional Vision System                                                               
 #### Video explanations in English :[https://www.youtube.com/watch?v=eyiFRb6uCYg](https://www.youtube.com/watch?v=eyiFRb6uCYg)
