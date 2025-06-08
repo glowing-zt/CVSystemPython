@@ -6,12 +6,12 @@
 #### See videos below how to import project and change settings:  
 #### Video explanations in English:<ins>[https://www.youtube.com/watch?v=8Lbmiy_5Bqg](https://www.youtube.com/watch?v=8Lbmiy_5Bqg)<ins>
 # Project Motivation and Main Theory
-#### Text explanations in English :It's in the docs folder.The name is Omnidirectional Vision System                                                               
+#### Text explanations in English :<ins>[Omnidirectional.Vision.System.pdf](https://github.com/user-attachments/files/20646174/Omnidirectional.Vision.System.pdf)<ins>                                                         
 #### Video explanations in English :<ins>[https://www.youtube.com/watch?v=eyiFRb6uCYg](https://www.youtube.com/watch?v=eyiFRb6uCYg)<ins>
 # Project Tutorials
 #### How To Use  
 #### Unity Project:UnityProject/Assets/Scenes/CVSystem
-#### Text explanations in English:It's in the docs folder.The name is How To Use
+#### Text explanations in English:<ins>[How.To.Use.pdf](https://github.com/user-attachments/files/20646179/How.To.Use.pdf)<ins>
 #### Video explanations in English:<ins>[ https://youtu.be/8Lbmiy_5Bqg]( https://youtu.be/8Lbmiy_5Bqg)<ins>
 ![ ](https://user-images.githubusercontent.com/34764174/220333826-f79338d8-5386-4b8f-9197-10d2af79f899.png)
 #### Intrinsic Calibration
