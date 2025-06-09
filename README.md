@@ -30,6 +30,6 @@
 #### *Tutorial Basic*      
 #### Unity Project:UnityProject/Assets/Scenes/CVSystem
 #### Python Project:Basic/laser/run_system
-#### Text explanations in English -
+#### Text explanations in English - [Tutorial Basic.pdf](https://github.com/user-attachments/files/20654088/Tutorial.Basic.pdf)
 #### Video explanations in English -
 ![图片1](https://github.com/user-attachments/assets/b679f919-5282-4c62-83e9-d3538ca35c26)
